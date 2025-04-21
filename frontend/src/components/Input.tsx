@@ -1,5 +1,3 @@
-import React, { ChangeEvent,  ChangeEventHandler,  useState } from "react";
-
 
 interface inputSignup{
     label:string;
